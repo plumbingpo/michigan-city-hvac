@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://michigancityhvac.com/sitemap.xml
